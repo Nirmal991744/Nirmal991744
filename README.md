@@ -75,14 +75,12 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukeshpandey0286&show_icons=true&locale=en&layout=compact" alt="mukku" /></p>
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Nirmal991744&show_icons=true&locale=en&layout=compact" 
+       alt="nirmal" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukeshpandey0286&show_icons=true&locale=en" alt="mukku" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukeshpandey0286&" alt="mukku" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mukeshpandey0286&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/jaiswaladi246/Mukeshpandey0286/blob/output/github-contribution-grid-snake.svg)
