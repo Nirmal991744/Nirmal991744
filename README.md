@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Full Stack Web Devloper From India. I am currently a Engineering student.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirmal991744&label=Profile%20views&color=0e75b6&style=flat" alt="mukku" /> </p>
-- 👨‍💻 Visit my resume [Cheack Here](https://mukeshpandey0286.github.io/My_Resume/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirmal991744&label=Profile%20views&color=0e75b6&style=flat" alt="nirmal" /> </p>
+- 👨‍💻 Visit my resume [Cheack Here](file:///C:/Users/Nirmal%20Singh/Downloads/Nirmal_Singh_Resume%20(1).pdf)
 
 - 🔭 I’m currently working on *Visual Studio *
 
